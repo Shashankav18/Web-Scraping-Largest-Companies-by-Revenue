@@ -35,7 +35,7 @@ The extracted data is then cleaned and saved as a CSV file for further analysis.
 ```
 /largest-companies-by-revenue-scraper
 │
-├── main.py                         # Python script for scraping and saving data
+├── main.ipynb                         # Python script for scraping and saving data
 ├── requirements.txt                 # Dependencies used
 │
 ├── data/
