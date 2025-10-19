@@ -41,9 +41,6 @@ The extracted data is then cleaned and saved as a CSV file for further analysis.
 ├── data/
 │   └── largest_companies.csv        # Final scraped dataset
 │
-├── screenshots/
-│   ├── website_source.png           # Screenshot of the source website
-│   └── scraped_output_preview.png   # Example of final scraped table
 │
 ├── README.md                        # Documentation
 └── LICENSE                          # Optional
@@ -107,9 +104,7 @@ Always review a website’s **robots.txt** and **terms of service** before scrap
 
 ## 🧑‍💻 Author
 
-**Shashank Az**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+**Shashank AV**
 
 ---
 
